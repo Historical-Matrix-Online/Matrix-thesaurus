@@ -17,4 +17,4 @@
 | Fire                   | Fire & without specific location, Fire & with specific location | incend                                                       |
 | Society                | famine, food riot, price gauging, robbery, piratry, alcohol ban, luxury ban, alms, offering, supplication | fames, famis, fame, fames                                           |
 | Mortality              | zootic mortality stated without numeric data, zootic mortality stated with numeric data, human mortality stated without numeric data, human mortality stated with numeric data | mortalit, uccell,                                            |
-| Social class           | miller, merchant, peasant, men, women, children, old, young, rich, poor |                                                              |
+
